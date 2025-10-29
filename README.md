@@ -182,7 +182,7 @@ tech-support-chatbot/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/tech-support-chatbot.git
+git clone git@github.com:bmt621/Tech-Support-ChatBot-With-VLLM-Inference-Engine.git
 cd tech-support-chatbot
 ```
 
